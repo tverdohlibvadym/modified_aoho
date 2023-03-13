@@ -1,0 +1,137 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: gVI1Yqu9eN5+PUqHJM00mrYFZpv7ciIIuSnDn0T7C/k=
+
+Name: assets/a0.png
+SHA-256-Digest: 4b3jcqE45AOTBDbTdqpeoGrnJpW1uvFpov5vYuWgIAQ=
+
+Name: assets/a1.png
+SHA-256-Digest: TnseQYBuMbkA3iWQ92m2vvkNbcUJS1HG2kHIM7hGhTA=
+
+Name: assets/bkg.png
+SHA-256-Digest: xb8mRK4/x3NCI5zBU60Spo2cbP+apqDOy5ZVnL6vHgY=
+
+Name: assets/icon.png
+SHA-256-Digest: 6mc1C11vq3h5/+8XDBj0rpO/HqofKWmpfPLGLh5Edms=
+
+Name: assets/langs.txt
+SHA-256-Digest: f+IvfznCFmamReThPA1l8pj5eFJ9N8iiF9aSlC91ANo=
+
+Name: assets/line.png
+SHA-256-Digest: AsqCEVL9W1gTTCSk+aWKM+BXdjSOMpL0aum1qtJn6Ng=
+
+Name: assets/logo.png
+SHA-256-Digest: 8hMFpjZR3OR97jnQxAf/tlGpJ/T2QWAYmqFlKc+qeKE=
+
+Name: assets/orient.png
+SHA-256-Digest: BwB/QAlPx05j61kRhlHExzJ5vHbtM6Ou6BrjKJxvwNo=
+
+Name: assets/progress.png
+SHA-256-Digest: OZcc0XyZjtMutJyEebf6BLNyQKWPHDNvVMnzvtep7gA=
+
+Name: assets/text.ru
+SHA-256-Digest: 5EDYOj816fiwaJQoz+Ba0zjffS3lZbniqaHQdMOaYJQ=
+
+Name: assets/text_en.txt
+SHA-256-Digest: 4NDwsi2v4yVoXPdDhi+CnYvuyAS39aUsgIi0YGoTJjo=
+
+Name: assets/text_ru.txt
+SHA-256-Digest: h+yldQ1phzfac499P2vIIUvEzMSGoG4rRaiqLs1YCXY=
+
+Name: assets/title.jpg
+SHA-256-Digest: WwirNIyTwQMhhp4I9XZCg7bVT6XvnicZBa/NmoejOD0=
+
+Name: assets/toloop1.png
+SHA-256-Digest: t0OcMm9gESJYyMetgmQGI3yu11J2rm7ofwHDv/8pUho=
+
+Name: assets/toloop2.png
+SHA-256-Digest: XsbUvqlQE+id7bUlOVTnVQAM0um3EiqkE9aghEsep4M=
+
+Name: classes.dex
+SHA-256-Digest: ySXvuDDNyD7Hju8Vl7CSSGln/2Vx0yq1OgnM5z8oKYI=
+
+Name: res/drawable-hdpi/icon.png
+SHA-256-Digest: X1+VEAplekPQb93FG36JHoHe9Si1o3YJYMHpBq5AKZk=
+
+Name: res/drawable-ldpi/icon.png
+SHA-256-Digest: pXNDDLpvjcB9IIBD78Nv4KwlGaznG3otMdgVHRByV+M=
+
+Name: res/drawable-mdpi/icon.png
+SHA-256-Digest: 7WQCAvuc5Gy8NPge9k3cAoN/0XXABC1/7YAdIjtCJLo=
+
+Name: res/drawable-xhdpi/icon.png
+SHA-256-Digest: vckD3v5ifFjPQiMye6gV7+TdM1bMbhZCzFfskpx8K2U=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA-256-Digest: 3xV1QNDMtfuWvuPJElOaMBJZO3tzlgUsMwPYRecF+uA=
+
+Name: res/drawable-xxxhdpi/icon.png
+SHA-256-Digest: 3xV1QNDMtfuWvuPJElOaMBJZO3tzlgUsMwPYRecF+uA=
+
+Name: res/drawable/bcenter.png
+SHA-256-Digest: oSq+ulfSvi+s5FELgGCZPtecTwYykpO5JPp7zBmvPpE=
+
+Name: res/drawable/bdown.png
+SHA-256-Digest: Cqc8P+ePCweX0S5LBG8juQgLVV2W5GRSmDgW2stbPdg=
+
+Name: res/drawable/bleft.png
+SHA-256-Digest: QMny+vW8MhS79iNL2HiEfxQeOSnTj+b3S7PfouudN7k=
+
+Name: res/drawable/bright.png
+SHA-256-Digest: uZ+H2q+T8+zZynxXxl49iRls0Ufb0S8n9bi24qONtg4=
+
+Name: res/drawable/btop.png
+SHA-256-Digest: PAMBs2xV5NA8vdbh1CmWTVQsbaYmRDtVGzYME8iTZek=
+
+Name: res/drawable/downpanel.png
+SHA-256-Digest: 1dN4OMC9vqLV73KcVw5OHaLMx9+YYBjfM3BT97g7D9M=
+
+Name: res/drawable/icon.png
+SHA-256-Digest: vckD3v5ifFjPQiMye6gV7+TdM1bMbhZCzFfskpx8K2U=
+
+Name: res/drawable/icon1.png
+SHA-256-Digest: vI7lYhZqrU15PRKd0PRHLzbUvwK/wM8BMIWpvAM+rLg=
+
+Name: res/drawable/orient.png
+SHA-256-Digest: 95r/08M3r6EMzITIS2xRQm0a11uLM/u/ITm0mi0F8ww=
+
+Name: res/drawable/panellandscape.png
+SHA-256-Digest: L2D1Xq7LCChD7zcWWizLkIVhidP0THUTfuBaO96wvZs=
+
+Name: res/drawable/progress.png
+SHA-256-Digest: dCLfm6YO536YpRDTtpq/1biwJYItxA7JVkxP5kgog10=
+
+Name: res/drawable/title.jpg
+SHA-256-Digest: WwirNIyTwQMhhp4I9XZCg7bVT6XvnicZBa/NmoejOD0=
+
+Name: res/drawable/toloop1.png
+SHA-256-Digest: QVz/2KynHWcmdThflL+U9eQw7c8D/bmkEi87R4VXZGM=
+
+Name: res/drawable/toloop2.png
+SHA-256-Digest: F9h+Or3igQRC18rIuvD5tVmThG9Lmq6dM3YRmCs2YuQ=
+
+Name: res/layout/input.xml
+SHA-256-Digest: V7bko/Yd4RvJI7YFiCxVG7KzLUujc0cCBYzK9HDztco=
+
+Name: res/layout/main.xml
+SHA-256-Digest: uMK7j+JK1dMN0tY9vzgoUYmGFZDG3UGTZsOY9lCxD4s=
+
+Name: res/raw/langs.txt
+SHA-256-Digest: kNO9a0Qwem/Keob0NDNHAp4LFlohdVSxcOKYQAHuVEw=
+
+Name: res/raw/text_en.txt
+SHA-256-Digest: TR98+0FwYFyWk2I9AkL6TeHBjnY8HsT2egxCnVqJ4ng=
+
+Name: res/raw/text_rs.txt
+SHA-256-Digest: DPUGdKT+2Evy9RiJhrE1ABL+CWJfP7GnRF+k7LRMfd8=
+
+Name: res/raw/text_ru.txt
+SHA-256-Digest: Mtmn3r5OXtQEcWne2fdOWp9N9QtSnx+PKzwZAVSGWYw=
+
+Name: res/raw/text_sp.txt
+SHA-256-Digest: ZbwmyS7S/pkKEBWRLcQjGT5LErnbk4nT5faPFCxmnMc=
+
+Name: resources.arsc
+SHA-256-Digest: hvqExpnp9ZVcdUQC6OJw7bJta+in8GIpdCQF3ekSnyc=
+

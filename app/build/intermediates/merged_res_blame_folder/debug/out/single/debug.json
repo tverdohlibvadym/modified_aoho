@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable-mdpi_icon.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_btop.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/btop.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_downpanel.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/downpanel.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_bcenter.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/bcenter.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_panellandscape.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/panellandscape.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_icon.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/icon.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_bleft.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/bleft.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/raw_text_ru.txt.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/raw/text_ru.txt"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/layout_main.xml.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/layout/main.xml"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_toloop2.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/toloop2.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_bdown.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/bdown.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_orient.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/orient.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/layout_input.xml.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/layout/input.xml"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable-xxhdpi_icon.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/raw_langs.txt.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/raw/langs.txt"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_title.jpg.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/title.jpg"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable-hdpi_icon.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/layout_content_main.xml.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/layout_fragment_first.xml.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/raw_text_rs.txt.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/raw/text_rs.txt"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/raw_text_en.txt.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/raw/text_en.txt"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_icon1.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/icon1.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable-xxxhdpi_icon.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_toloop1.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/toloop1.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/navigation_nav_graph.xml.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/layout_fragment_second.xml.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_bright.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/bright.png"
+    },
+    {
+        "merged": "zhook.aohoc.bridge.platform.andr.app-merged_res-40:/layout_main.xml.flat",
+        "source": "zhook.aohoc.bridge.platform.andr.app-main-42:/layout/main.xml"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable-xhdpi_icon.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable_progress.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable/progress.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/drawable-ldpi_icon.png.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-merged_res-40:/raw_text_sp.txt.flat",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/raw/text_sp.txt"
+    }
+]

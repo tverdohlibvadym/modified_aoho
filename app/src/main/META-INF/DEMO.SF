@@ -1,0 +1,140 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: GC8mkw0YGdF4wrmOFCeF0LZ13LbA08gI7B8W37AYtMI=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 5295rTZpUFfF5CGHJYrNNYk2Ev0yOj1MQgXNo7PbedA=
+
+Name: assets/a0.png
+SHA-256-Digest: Q3WzU38ekueOAlDXErfqGwyKof47yDe75X/aNXzkX2E=
+
+Name: assets/a1.png
+SHA-256-Digest: 6j8TuNVHplLcMUAHgkGoYClIsDhZic+tJf7mIBXKmN8=
+
+Name: assets/bkg.png
+SHA-256-Digest: mbWfugcEKaR75VdoJPMZMtWrWUxTdOEhAAOy0gwxB+4=
+
+Name: assets/icon.png
+SHA-256-Digest: xs65Ge89yveu+fxoGgl3MhZG8ToiWnKuOPxv9gqyLO8=
+
+Name: assets/langs.txt
+SHA-256-Digest: iSbW0FXegaJDE1N6RbyvygXB0IJeU6hHzwFDluQFBv0=
+
+Name: assets/line.png
+SHA-256-Digest: pXT7Is/kysJH010QpD8rZXtc43HYfY38DMQwPidbnb4=
+
+Name: assets/logo.png
+SHA-256-Digest: +cD3IkWVYODK/Rrqm4SDaMPoH1NMwaj6osdBkU205+c=
+
+Name: assets/orient.png
+SHA-256-Digest: DUw24S6HYoaV0xOeEXg8+DxVi4mfyYmHkoT+N1y9JFI=
+
+Name: assets/progress.png
+SHA-256-Digest: il5rb4KusrNoovQ2GDiU+ZxP9RC3O+oE/I2v38OZJWg=
+
+Name: assets/text.ru
+SHA-256-Digest: ueNO3q9FmyX5/EfvydX8xl46g/YwtqvQiUKL7gB/Asc=
+
+Name: assets/text_en.txt
+SHA-256-Digest: eqFbL3VqLTtotwRb3yJEC3GNk7KaZm0k2pirLWlQK1c=
+
+Name: assets/text_ru.txt
+SHA-256-Digest: LpZHr5Jgyr6ZSbgoxnTUVhoU8G/ZBo/N3OKW2SX0Cf8=
+
+Name: assets/title.jpg
+SHA-256-Digest: LlYj9LgVwcspIbh+58XAxBhtPC7oqkLVbuCCGMapkR0=
+
+Name: assets/toloop1.png
+SHA-256-Digest: QgX3kUdicryjNN/zxZmWDSggWWfLhmzSdy9URDSGPAw=
+
+Name: assets/toloop2.png
+SHA-256-Digest: z+c3zoMczJO4sqKnSZkQQtmjx9pEX4JcWuHjUk+LOZE=
+
+Name: classes.dex
+SHA-256-Digest: fvATfPeEalsaoJWZglaqK5h7Q9KIQ1y5pY+q5ZWOafk=
+
+Name: res/drawable-hdpi/icon.png
+SHA-256-Digest: zFt6ZNixrn0ZM3VUMexLyBY2Z0lite9EJ4R9wfc07Jk=
+
+Name: res/drawable-ldpi/icon.png
+SHA-256-Digest: 2UcyZy7bJiUlB3sOm25h8hng8WqENq8ng+lQnohG7Ig=
+
+Name: res/drawable-mdpi/icon.png
+SHA-256-Digest: FY5e5WJRmfDDzaL7jc3KUYjWKT2jxStCVqjc/BdfhUc=
+
+Name: res/drawable-xhdpi/icon.png
+SHA-256-Digest: 7is3cB3VEFkqg03ze6ogKIw/sEY3uMFvGpTO7yVLTMA=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA-256-Digest: wY7ULIy28hkzKTiQdOf3YJWgIPpKq/Q39jRyzdmYw4w=
+
+Name: res/drawable-xxxhdpi/icon.png
+SHA-256-Digest: eV7agozZNkJU5HywHqflJV6vGlDR5d4+dLQ+yYvdRj8=
+
+Name: res/drawable/bcenter.png
+SHA-256-Digest: orzADuilLpzGABZxw7uXOq6/RHR2CoFFXZGAoFMnVgE=
+
+Name: res/drawable/bdown.png
+SHA-256-Digest: QQdU5duX7E5+W6G1hv0D1czjr79Nbe3GMiUuD818Kpo=
+
+Name: res/drawable/bleft.png
+SHA-256-Digest: OK55fxVRQ3LYPZ/r30jD2Nrt/Ys0J8R77b27k8t3sEE=
+
+Name: res/drawable/bright.png
+SHA-256-Digest: O8eBi9ShVqJyRWRar6cwMhUxTh6nEP292pdNxpmqfnY=
+
+Name: res/drawable/btop.png
+SHA-256-Digest: LBM0GgPCyqr2e0Sw8Ort1XV3nVFWuAX9WK8UVUsZus8=
+
+Name: res/drawable/downpanel.png
+SHA-256-Digest: yMPxDsjx+nuoezHadO1+JVmi3/0834+qZzQy5KIn04g=
+
+Name: res/drawable/icon.png
+SHA-256-Digest: GdxWLdtdRJtn61myeJPhDTyVSm5gaRYpvE3PQwUwWJY=
+
+Name: res/drawable/icon1.png
+SHA-256-Digest: qoUwk3jnLQoyu6hcPzThgESMUztVc7fY+Jagk4V/XhA=
+
+Name: res/drawable/orient.png
+SHA-256-Digest: XSVDR1HmP07HeMTTs9yRNVmNUtLrALpe8V0SOwFGySs=
+
+Name: res/drawable/panellandscape.png
+SHA-256-Digest: Pk2dIvWH8dzhNp1b92dhlVreCtmzWW3sMnz6TI5Z1uM=
+
+Name: res/drawable/progress.png
+SHA-256-Digest: gQq2L5QRnfgAoZ9Pk40e2H1UWCNjpKyuoofsxcGW0Fs=
+
+Name: res/drawable/title.jpg
+SHA-256-Digest: CJx3se6fTY3A8rEuBI5+yyWcH4/zd7z4HfFitR592uI=
+
+Name: res/drawable/toloop1.png
+SHA-256-Digest: LiIGERypP34QfYGpybjzYFlGBKaf40lkZiRVzN4qNUs=
+
+Name: res/drawable/toloop2.png
+SHA-256-Digest: XDDePNYcByTttdW0XeiLveR8KAolWVunF3rY9WhYxUg=
+
+Name: res/layout/input.xml
+SHA-256-Digest: W1JGeJOP1u2NWJVCQkgybDFovJL3RTSQFcWA0coBiVg=
+
+Name: res/layout/main.xml
+SHA-256-Digest: koFLFpltEQmaDJmIgA29law8N6rhSh3KTt1cGZoHUIE=
+
+Name: res/raw/langs.txt
+SHA-256-Digest: zxKZADaUztTP0HFfwM1+JE8GBVNuNZ0wzlaMLTELLuM=
+
+Name: res/raw/text_en.txt
+SHA-256-Digest: I0CIjpxIoSE6MM8lmMc3KmnodGgFXvK1W2vdVHZbhgw=
+
+Name: res/raw/text_rs.txt
+SHA-256-Digest: Lve+zWizakD+6ITKplxnwVczLRo3jsE6X/HK0oz7A+U=
+
+Name: res/raw/text_ru.txt
+SHA-256-Digest: H9O5zrkISuFVhl/TO+IsFwfzLRLiPGV74LXYyBq9DV0=
+
+Name: res/raw/text_sp.txt
+SHA-256-Digest: oTRfwmVVC7kOEUM9oS1mTUxgrtu1Rl6ihR1V1H2A9uQ=
+
+Name: resources.arsc
+SHA-256-Digest: OfszKjk67dzLAOGtaIRhXs6RGzDWEmhfdn6tbHNnzd8=
+

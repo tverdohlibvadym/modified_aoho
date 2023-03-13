@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">20sp</dimen>
+    <string name="app_name">AOH Revival</string>
+    <string name="app_store">aohrevival</string>
+    <string name="buttonText">Enter</string>
+    <string name="defaultText">...</string>
+    <string name="hello">Hello World, aoh_revival!</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="zhook.aohoc.bridge.platform.andr.test">
+
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="32" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="androidx.test.runner.AndroidJUnitRunner"
+                     android:targetPackage="zhook.aohoc.bridge.platform.andr"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for zhook.aohoc.bridge.platform.andr"/>
+</manifest>

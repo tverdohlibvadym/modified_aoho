@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-mergeDebugResources-39:/layout/main.xml",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/layout/main.xml"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-mergeDebugResources-39:/layout/fragment_first.xml",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-mergeDebugResources-39:/layout/input.xml",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/layout/input.xml"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-mergeDebugResources-39:/layout/content_main.xml",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-mergeDebugResources-39:/layout/fragment_second.xml",
+        "source": "/home/docker/.gradle/daemon/7.5.1/zhook.aohoc.bridge.platform.andr.app-main-42:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "zhook.aohoc.bridge.platform.andr.app-mergeDebugResources-39:/layout/main.xml",
+        "source": "zhook.aohoc.bridge.platform.andr.app-main-42:/layout/main.xml"
+    }
+]
